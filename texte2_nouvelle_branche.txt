@@ -1,0 +1,1 @@
+Ceci est un texte ajouté dans un fork avec une nouvelle branche, en vue de demander son ajout via un pull-request.
